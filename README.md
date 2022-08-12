@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
-<h3 align="center">A CS major with specilization in AI/ML</h3>
+<h3 align="center">A CS Hons. stu with specilization in AI/ML</h3>
 
 <img align="right" alt="coding" width="400" src="/img/readmegif.gif">
 
