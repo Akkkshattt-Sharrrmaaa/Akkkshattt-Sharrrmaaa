@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">A CS Hons. student with specilization in AI/ML</h3>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text">
-</p>
+
+  <img  withd="400" align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text">
+
 
 
 
