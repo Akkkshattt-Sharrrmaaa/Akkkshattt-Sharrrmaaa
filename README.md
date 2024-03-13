@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">A CS Hons. student with specilization in AI/ML</h3>
 
-<!-- <img align="right" alt="coding" width="400" src="/img/readmegif.gif"> -->
-<video width="400" align="right" autoplay loop>
-  <iframe src="https://giphy.com/embed/HoffxyN8ghVuw" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</video>
+![gif](https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif)
+
+
 
 - 🔭 I’m currently looking for **new opportunities**
 
