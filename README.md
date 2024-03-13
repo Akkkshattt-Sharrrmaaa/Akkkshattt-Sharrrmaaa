@@ -3,7 +3,7 @@
 
 <!-- <img align="right" alt="coding" width="400" src="/img/readmegif.gif"> -->
 <video width="400" align="right" autoplay loop>
-  <source src="/img/dontgotobed.mp4" type="video/mp4">
+  <iframe src="https://giphy.com/embed/HoffxyN8ghVuw" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </video>
 
 - 🔭 I’m currently looking for **new opportunities**
