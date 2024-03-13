@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **new opportunities**
 
-- 🌱 I’m currently learning **everything that interests me**
+- 🌱 I’m currently learning **MERN and ML**
 
 - 👯 I’m looking forward **to collaborate with other creators**
 
