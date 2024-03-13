@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">A CS Hons. student with specilization in AI/ML</h3>
 
-<img align="right" alt="coding" width="400" src="/img/readmegif.gif">
+<!-- <img align="right" alt="coding" width="400" src="/img/readmegif.gif"> -->
+<video width="400" align="right">
+  <source src="/img/video.mp4" type="video/mp4">
+</video>
 
 - 🔭 I’m currently looking for **new opportunities**
 
