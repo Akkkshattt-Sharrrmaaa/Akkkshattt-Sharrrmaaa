@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
+<h1 align="center">Hi 👋, I'm Akshat Sharma 🌱</h1>
 <h3 align="center">A CS Hons. student with specilization in AI/ML</h3>
 
 
