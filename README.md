@@ -6,7 +6,7 @@
 
 
 
-
+- --------------------------------
 
 - 🔭 I’m currently looking for **new opportunities**
 
