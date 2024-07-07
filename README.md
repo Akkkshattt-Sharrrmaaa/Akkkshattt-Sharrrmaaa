@@ -2,7 +2,7 @@
 <h3 align="center"> CS Hons. student with specilization in AI/ML</h3>
 
 
-  <img  withd="400" align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text" autoplay loop>
+  <img  withd="400" align="right" src="[https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif](https://programmerhumor.io/wp-content/uploads/2023/04/programmerhumor-io-linux-memes-backend-memes-f948847ea7a1c82.jpg)" alt="Alt Text" autoplay loop>
 
 
 
