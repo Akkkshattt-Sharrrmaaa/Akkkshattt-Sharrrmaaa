@@ -2,7 +2,7 @@
 <h3 align="center"> CS Hons. student with specilization in AI/ML</h3>
 
 
-  <img  withd="200" align="right" src="./img/007.png" alt="Alt Text" autoplay loop>
+  <img  width="200" align="right" src="./img/007.png" alt="Alt Text" autoplay loop>
 
 
 
