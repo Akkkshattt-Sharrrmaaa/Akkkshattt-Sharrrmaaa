@@ -2,7 +2,7 @@
 <h3 align="center"> CS Hons. student with specilization in AI/ML</h3>
 
 
-  <img  align="right" height="320" width="500"
+  <img  align="right"  width="450"
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMnZsaWJwOGQzem5ldDBsbmU4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif" alt="Alt Text" autoplay loop>
 
 
