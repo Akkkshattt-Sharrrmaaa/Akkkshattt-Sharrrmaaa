@@ -19,7 +19,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
 - 📫 How to reach me **akshatsharma8304@gmail.com**
 
-- ⚡ Fun fact **I am crazy about lo-fi music**
+- ⚡ Fun fact **I am super into chillhop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
