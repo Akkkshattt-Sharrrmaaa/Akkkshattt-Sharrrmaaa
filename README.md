@@ -8,18 +8,18 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
 
 
-
+<br>
  - 🔭 I’m currently looking for **new opportunities**
 
- 🌱 I’m currently learning **MERN and ML**
+ - 🌱 I’m currently learning **MERN and ML**
 
- 👯 I’m looking forward **to collaborate with other creators**
+ - 👯 I’m looking forward **to collaborate with other creators**
 
- 🤝 I’m looking for help with **web development**
+ - 🤝 I’m looking for help with **web development**
 
- 📫 How to reach me **akshatsharma8304@gmail.com**
+ - 📫 How to reach me **akshatsharma8304@gmail.com**
 
- ⚡ Fun fact **I am super into chillhop**
+ - ⚡ Fun fact **I am super into chillhop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
