@@ -9,7 +9,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
 
 
- 🔭 I’m currently looking for **new opportunities**
+ - 🔭 I’m currently looking for **new opportunities**
 
  🌱 I’m currently learning **MERN and ML**
 
