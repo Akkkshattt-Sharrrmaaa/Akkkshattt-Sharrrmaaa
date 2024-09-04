@@ -17,7 +17,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
  - 🤝 I’m looking for help with **web development**
 
- - 📫 How to reach me **akshatsharma8304@gmail.com**
+ - 📫 How to reach me **akshatsharma.career@gmail.com**
 
  - ⚡ Fun fact **I am super into chillhop**
 
