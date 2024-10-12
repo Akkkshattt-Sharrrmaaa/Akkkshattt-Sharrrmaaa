@@ -26,25 +26,11 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/akkkshattt-sharrrmaaa/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-	<a href="https://www.linkedin.com/in/akkkshattt-sharrrmaaa/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-	<a href="https://www.linkedin.com/in/akkkshattt-sharrrmaaa/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-	<a href="https://www.linkedin.com/in/akkkshattt-sharrrmaaa/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+	<a href="https://twitter.com/__akshatsharma" target="blank"><img align="center" src="img/twitter-x.svg" alt="twitter-x" height="30" width="40" /></a>
+	<a href="https://open.spotify.com/user/lxp6phlq2hmd65tr2m5nkqzwy" target="blank"><img align="center" src="img/spotify.svg" alt="spotify" height="30" width="40" /></a>
+	<a href="https://discord.com/users/930736685631807509" target="blank"><img align="center" src="img/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
-<p align="left">
 
-  <a href="https://www.linkedin.com/in/akkkshattt-sharrrmaaa/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
- 
-<a href="https://twitter.com/__akshatsharma" target="blank"><img align="center" src="img/twitter-x.svg" alt="x-twitter" height="30" width="40" /></a>
-
- <a href="https://open.spotify.com/user/lxp6phlq2hmd65tr2m5nkqzwy" target="blank"><img align="center" src="img/spotify.svg" alt="spotify" height="30" width="40" /></a>
- 
-
-
-  
-  <a href="https://discord.com/users/930736685631807509" target="blank"><img align="center" src="img/discord.svg" alt="discord" height="30" width="40" /></a>
-
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
