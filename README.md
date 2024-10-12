@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma 🌱</h1>
-<h3 align="center"> CS Hons. student with specilization in AI/ML</h3>
+<h3 align="center"> Senior CS student focused on AI/ML and Web Development</h3>
 
 <!-- 
   <img  align="right"  width="450"
