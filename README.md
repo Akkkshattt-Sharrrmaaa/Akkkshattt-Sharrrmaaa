@@ -8,8 +8,8 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
 <!-- [<img align="right" width="450" src="img/portfolio_compressed.gif" alt="Find Me Here!" autoplay loop>](https://akkkshattt.vercel.app)
 -->
+![Find Me Here!](img/portfolio_compressed.gif)
 
-<img align="right" width="450" src="img/portfolio_compressed.gif" alt="Find Me Here!" autoplay>
 
  - 🔭 I’m currently looking for **new opportunities**
 
