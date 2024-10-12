@@ -24,7 +24,12 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__akshatsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__akshatsharma" height="30" width="40" /></a>
+	<a href="https://twitter.com/__akshatsharma" target="blank"><img align="center" src="img/twitter-x.svg" alt="x-twitter" height="30" width="40" /></a>
+
+ 	<a href="https://open.spotify.com/user/lxp6phlq2hmd65tr2m5nkqzwy" target="blank"><img align="center" src="img/spotify.svg" alt="spotify" height="30" width="40" /></a>
+
+
+
 <a href="https://stackoverflow.com/users/18369891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18369891" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/3tg26fai9lbx1cnmd4cxodiqpclitxofs6ll2hbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="3tg26fai9lbx1cnmd4cxodiqpclitxofs6ll2hbr" height="30" width="40" /></a>
 </p>
