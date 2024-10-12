@@ -20,7 +20,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMn
 
  - 📫 How to reach me **akshatsharma.career@gmail.com**
 
- - ⚡ Fun fact ** Mechanical Keyboard Enthusiast**
+ - ⚡ Fun fact **Mechanical Keyboard Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 
