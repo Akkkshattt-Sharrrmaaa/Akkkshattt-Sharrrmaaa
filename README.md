@@ -6,9 +6,10 @@
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE0MjhkYjZ2dHBrd2hldTZsYXFhMnZsaWJwOGQzem5ldDBsbmU4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif" alt="Alt Text" autoplay loop> -->
 
 
-[<img align="right" width="450" src="img/portfolio_compressed.gif" alt="Find Me Here!" autoplay loop>](https://akkkshattt.vercel.app)
+<!-- [<img align="right" width="450" src="img/portfolio_compressed.gif" alt="Find Me Here!" autoplay loop>](https://akkkshattt.vercel.app)
+-->
 
-
+<img align="right" width="450" src="img/portfolio_compressed.gif" alt="Find Me Here!">
 
  - 🔭 I’m currently looking for **new opportunities**
 
